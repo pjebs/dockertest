@@ -1,3 +1,3 @@
-module github.com/pjebs/dockertest
+module github.com/pjebs/dockertest/kafka
 
 go 1.18
