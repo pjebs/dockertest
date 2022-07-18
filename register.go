@@ -3,7 +3,7 @@ package dockertest
 import (
 	"sync"
 
-	"dockertest/driver"
+	"github.com/pjebs/dockertest/driver"
 )
 
 var (
