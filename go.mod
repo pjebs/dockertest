@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/ory/dockertest/v3 v3.9.1
-	github.com/pjebs/dockertest/driver v0.0.0-20220718130900-ad45c7af680a
 )
 
 require (
