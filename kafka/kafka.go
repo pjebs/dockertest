@@ -1,7 +1,7 @@
 package kafka
 
 import (
-	"dockertest"
+	"github.com/pjebs/dockertest"
 )
 
 func init() {
